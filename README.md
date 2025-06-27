@@ -23,9 +23,7 @@
 
  ![Screenshot_20250627-215838_LinkedIn](https://github.com/user-attachments/assets/e8bb2efa-da51-46db-b363-ddc80721415b)
 
- ▶️ How to run
-
- python GPT2.ipynb 
+ 
 
 
  
