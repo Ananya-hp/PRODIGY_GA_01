@@ -1,4 +1,5 @@
 🎯Task1 - Text Generation with GPT-2 
+
 🔍Task Objective 
 
  Train a model to generate Coherent and contextually relevant text based on a given prompt.A transformer model developed by Open AI Create text that mimics the Style and structure of training data.
