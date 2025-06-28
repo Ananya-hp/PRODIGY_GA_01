@@ -15,10 +15,15 @@
  ▪️ Generates Coherent, human like text in real time.
 
  🛠 Technologies Used:
+ 
  🔸️ Transformers by Hugging Face 
+ 
  🔸️ Gradio for web interface 
+ 
  🔸️ Python
+ 
  🔸️ Google Colab
+ 
 
  📷 Screenshot of Output
 
