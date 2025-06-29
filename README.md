@@ -25,9 +25,25 @@
  🔸️ Google Colab
  
 
- 📷 Screenshot of Output
+ 📷Screenshot of code
 
- ![Screenshot_20250627-215838_LinkedIn](https://github.com/user-attachments/assets/e8bb2efa-da51-46db-b363-ddc80721415b)
+ ![Screenshot_20250629-205516_LinkedIn](https://github.com/user-attachments/assets/0a22ed19-d1d4-4aac-b007-0aa8fe81c18a)
+
+ ![Screenshot_20250629-205518_LinkedIn](https://github.com/user-attachments/assets/fd88805f-b25a-428c-890e-2a85b6ae8442)
+
+ ![Screenshot_20250629-205521_LinkedIn](https://github.com/user-attachments/assets/48b0c991-dc33-4b42-bae9-3b0a72038bbb)
+
+ Output
+
+ ![Screenshot_20250627-215838_LinkedIn](https://github.com/user-attachments/assets/361b9be1-4ed4-4f51-a8a7-6785286b5463)
+
+
+
+
+
+
+
+
 
  
 
