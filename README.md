@@ -1,4 +1,4 @@
-🎯Task1 - Text Generation with GPT-2 
+🎯Task1- Text Generation with GPT-2 
 
 🔍Task Objective 
 
